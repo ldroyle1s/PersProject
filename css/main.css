@@ -32,3 +32,7 @@ header{
     border-bottom: 1px black solid;
     margin-bottom: 2rem;
 }
+
+#pokemonSprite{
+    width: 20%;
+}
